@@ -1,7 +1,5 @@
 # MongoDB user handler blueprint for Flask
 
-MongoDB user handling demo based on the [`user-blueprint`](https://github.com/volfpeter/user-blueprint) project.
-
 Demo `Flask` application showing how to use the [`user-blueprint`](https://github.com/volfpeter/user-blueprint) project to set up a MongoDB-based user handling web application.
 
 Note that you will need a MongoDB instance to connect to in order to run this demo web application. If you don't your own database, sign up to a service that provides free demo MongoDB databases, such as mLab (mlab.com).
